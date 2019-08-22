@@ -1,7 +1,7 @@
 # Chickencam
 ONLY ANDROID
  
-Join [Justxn's Server](https://discord.gg/gD4yAY) for the first Snapchat Web Client 
+Join original developer [Justxn's Server](https://discord.gg/gD4yAY) for the first Snapchat Web Client 
  
   Changelogs
   1. Changed string name of app from "creative-sample-app" to "camera" making it look more realistic on story posts 
