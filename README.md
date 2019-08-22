@@ -8,7 +8,9 @@ Join [Justxn's Server](https://discord.gg/gD4yAY) for the first Snapchat Web Cli
   2. Fixed Bug on android pie where videos were not being detected in gallery
   3. Added Darkmode
   4. Added credits to developer
-
+  
+  Planned Features
+  1. Autocrop
 
  Installation
   1. Create a account at https://kit.snapchat.com/portal/
