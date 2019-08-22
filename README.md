@@ -4,7 +4,7 @@ ONLY ANDROID
 Join [Justxn's Server](https://discord.gg/gD4yAY) for the first Snapchat Web Client 
  
   Changelogs
-  1. Fixed Bugs on android pie regarding to videos not being detected
+  1. Fixed Bug on android pie where videos were not being detected in gallery
   2. Added Darkmode
   3. Added credits to developer
 
