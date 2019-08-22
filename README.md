@@ -11,6 +11,7 @@ Join [Justxn's Server](https://discord.gg/gD4yAY) for the first Snapchat Web Cli
   
   Planned Features
   1. Autocrop
+  2. Share from Gallery apps
 
  Installation
   1. Create a account at https://kit.snapchat.com/portal/
