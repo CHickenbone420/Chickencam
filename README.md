@@ -15,7 +15,7 @@ Join original developer [Justxn's Server](https://discord.gg/gD4yAY) for the fir
 
  Installation
   1. Create a account at https://kit.snapchat.com/portal/
-  2. Create an app
+  2. Create an app (Click Add button) - Only change name. Don't Disable/Enable anything. Click continue
   3. *AT ANY POINT DO NOT SUBMIT FOR REVIEW*
   4. Scroll down to -Development Enviroment- and check android
   5. Copy and paste "com.snapchat.kit.creativesample" in "Add your name"
