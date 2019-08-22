@@ -4,9 +4,10 @@ ONLY ANDROID
 Join [Justxn's Server](https://discord.gg/gD4yAY) for the first Snapchat Web Client 
  
   Changelogs
-  1. Fixed Bug on android pie where videos were not being detected in gallery
-  2. Added Darkmode
-  3. Added credits to developer
+  1. Changed string name of app from "creative-sample-app" to "camera" making it look more realistic on story posts 
+  2. Fixed Bug on android pie where videos were not being detected in gallery
+  3. Added Darkmode
+  4. Added credits to developer
 
 
  Installation
