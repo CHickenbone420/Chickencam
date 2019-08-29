@@ -8,12 +8,7 @@ Join original developer [Justxn's Server](https://discord.gg/gD4yAY) for the fir
   2. Fixed Bug on android pie where videos were not being detected in gallery. (Credit to Bowsaa#2942)
   3. Added Darkmode
   4. Added credits to developer
-  
-  **Planned Features**
-  1. Autocrop
-  2. Share from Gallery apps
 
- **Installation***
   1. Create a account at https://kit.snapchat.com/portal/
   2. Create an app (Click Add button) - Only change name. Don't Disable/Enable anything. Click continue
   3. *AT ANY POINT DO NOT SUBMIT FOR REVIEW*
