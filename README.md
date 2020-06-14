@@ -1,7 +1,7 @@
 # Chickencam
 ONLY ANDROID
  
-Join original developer [Justxn's Server](https://discord.gg/hjxKca) for the first Snapchat Web Client 
+Join original developer [Justxn's Server](https://jsnap.re/) for the first Snapchat Web Client (25 Invites per month so be quick!)
  
  **Changelogs**
   1. Changed string name of app from "creative-sample-app" to "camera" making it look more realistic on story posts 
@@ -29,4 +29,4 @@ If you get an error such as "App cannot be installed" then either you forgot or 
 
 To fix the android version compability issue, On the top of android studio click Tools>Android>SDK Manager. Then install your version and sync your project by going to File>Sync
   
-Based off of https://github.com/Juxstin/creative-kit-sample
+Based off of https://github.com/JReverse/creative-kit-sample
